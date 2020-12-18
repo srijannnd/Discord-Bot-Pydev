@@ -4,10 +4,6 @@ Pydev
 
 Pydev is a Discord bot to get google results and track your recent search history.
 
-Invite URL
-----------
-    https://discord.gg/YqZP4NQzsS
-
 Features
 --------
 
